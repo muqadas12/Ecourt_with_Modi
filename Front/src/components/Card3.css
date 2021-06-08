@@ -1,0 +1,32 @@
+.card{
+    width:18rem;
+    height:100%
+}
+
+.card-title{
+	margin-top:10px
+}
+.card-title-one{
+    margin-top: -15px;
+}
+
+.card-title-contact{
+    margin-top: -20px;
+}
+.btn{
+    margin-left: 30px;
+}
+
+.card-title-list{
+    margin-top: -15px;
+}
+.lawyerlistimg{
+	width:10px;
+	height:20px
+}
+
+@media (max-width: 600px) {
+    .card-title-one{
+        margin-top: -10px;
+    }
+}
